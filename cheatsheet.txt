@@ -1,0 +1,3 @@
+Open cheatsheet | <leader>?
+Telescope Find Files | <leader>ff
+Telescope Live Grep | <leader>fg
